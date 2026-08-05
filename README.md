@@ -1,4 +1,8 @@
 The overall workflow for the project can be represented 
+
+
+
+
 as:
 ****User Image -> Image Preprocessing -> CNN Model -> 
 Freshness Classification -> Confidence Score -> Decision 
@@ -16,4 +20,5 @@ utilization and reduce food waste. The framework is
 intentionally designed so that recipe recommendation
 remains separate from a food-safety guarantee.
 
+https://drive.google.com/drive/folders/1MKOyDw26PIZgDOsINbEYeHMbAmpwfEOL?usp=drive_link
 
